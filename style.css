@@ -1,0 +1,396 @@
+body {
+  background-image: url("images/dark-wallpapers.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Arima", cursive;
+  font-family: "Josefin Sans", sans-serif;
+  max-height: 0px;
+  background-color: black;
+  margin-bottom: 0px;
+}
+.navbar-toggler-icon {
+  color: white !important;
+}
+@media (max-width:1000px) {
+  .about-img1 {
+    margin-left: 439px;
+    margin-top: -50px;
+    max-width: 337px !important;
+    float: left;
+    display: flex;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    max-height: 397px;
+  }
+}
+
+ 
+#intro-size {
+  font-size: 19px !important;
+}
+h1 {
+  margin-top: -30px;
+  margin-left: 26px;
+  font-size: 64px !important;
+}
+.progress {
+  margin-left: 30px;
+  max-width: 300px;
+}
+#mob-3 {
+  margin-left: 0px;
+  font-size: 35px;
+}
+#mob-4 {
+  margin-left: 22px;
+  font-size: 20px!important;
+}
+
+@media (max-width: 480px) {
+    #mob-3 {
+        margin-left: 149px;
+        font-size: 38px !important;
+        width: 49% !important;
+}
+#mob-4 {
+    margin-left: 149px;
+    font-size: 19px !important;
+    width: 49% !important;
+  }
+}
+@media (max-width: 480px) {
+    .med-1 {
+      margin-left: 447px;
+      margin-top: -150px;
+      max-width: 338px !important;
+      float: left;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      max-height: 199px;
+    }
+  
+    #h2k {
+      font-size: 19px !important;
+      margin-top: -79px;
+      margin-left: -6px;
+    }
+    h6 {
+      font-size: 26px !important;
+      margin-bottom: 88px;
+      margin-left: -4px;
+    }
+    #k34 {
+      font-size: 8px !important;
+      margin-bottom: 88px;
+      margin-left: 93px !important;
+    }
+    .about{
+        margin-left: -5px !important;
+        width: 308px !important;
+
+    }
+    h2{
+        font-size: 30px !important;
+
+    }
+    #second-image {
+      margin-left: -240px !important;
+    }
+    .card {
+      margin-top: -51px !important;
+      margin-left: 16px !important;
+      background-color: rgb(39, 37, 37);
+      color: rgb(41, 79, 182);
+      border: solid transparent !important;
+      margin-bottom: 96px !important;
+      height: 376px !;
+      width: 23% !important;
+    }
+    .contact-me {
+      margin-top: 951px !important;
+    }
+  }
+
+
+
+.progress {
+  text-align: left !important;
+}
+.about-img1 {
+  margin-top: -50px;
+  width: 100% !important;
+  height: 75% !important;
+}
+.about-img2 {
+  margin-top: -49px;
+  width: 100% !important;
+  height: 142% !important;
+}
+.about-img3 {
+  margin-top: -49px;
+  width: 100% !important;
+  height: 75% !important;
+}
+.row {
+  margin-top: 60px;
+}
+
+.container-fluid {
+  margin-top: 40px;
+  padding: 20px;
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+#pwidth {
+  max-width: 60px;
+}
+
+.nav-link {
+  padding-left: 10px;
+  color: white;
+}
+.nav-link:hover {
+  padding-left: 10px;
+  color: rgb(41, 79, 182);
+}
+#home {
+  color: white;
+}
+#home:hover {
+  color: rgb(41, 79, 182);
+}
+.navbar-brand {
+  margin-left: 20px;
+  padding-right: 80px;
+  font-weight: bolder;
+  font-size: 70px;
+  color: white;
+}
+.navbar-brand:hover {
+  color: rgb(41, 79, 182);
+}
+span {
+  color: rgb(41, 79, 182);
+}
+
+.dropdown:hover .dropdown-menu {
+  text-align: left;
+  color: white;
+  background-color: rgb(39, 37, 37);
+  display: block;
+  width: 1128px !important;
+  height: 793px !important;
+  margin-left: -478px;
+}
+#intro-size {
+  font-size: 20px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#dd2:hover #dd3 {
+    color: white;
+    background-color: rgb(39, 37, 37);
+    display: block;
+    width: 1128px !important;
+    height: 515px !important;
+    margin-left: -619px;
+    text-align: left;
+}
+#dd4:hover #dd5 {
+  color: white;
+  background-color: rgb(39, 37, 37);
+  display: block;
+  width: 1128px !important;
+  height: 515px !important;
+  margin-left: -789px;
+  text-align: center;
+}
+#dd4:hover #dd6 {
+  color: white;
+  background-color: rgb(39, 37, 37);
+  display: block;
+  width: 1128px !important;
+  height: 515px !important;
+  margin-left: -719px;
+  text-align: center;
+}
+
+#h2k {
+  font-size: 27px;
+  font-weight: bolder;
+  color: white;
+}
+#h2k:hover {
+  font-size: 37px;
+  font-weight: bolder;
+  color: white;
+}
+#K99 {
+  color: white;
+  font-weight: bolder;
+  font-size: 50px;
+}
+#K99:hover {
+  color: white;
+  font-size: 55px;
+}
+#k34 {
+  margin-left: 40%;
+  margin-top: 1%;
+}
+h1 {
+  color: white;
+  font-size: 60px;
+}
+h1:hover {
+  color: white;
+  font-size: 63px;
+}
+
+.intro {
+  margin-top: 40px;
+  padding: 50px;
+  font-weight: bolder;
+  font-size: 30px;
+}
+#second-image {
+  display: flex;
+  margin-top: 130.2%;
+  width: 900px;
+  max-height: 541px;
+  margin-left: -688px;
+}
+#second-image:hover {
+  display: flex;
+  margin-top: 130.2%;
+  width: 1000px;
+  max-height: 581px;
+  margin-left: -688px;
+}
+.about {
+  text-align: justify;
+  margin-top: 164%;
+  color: white;
+  background-color: black;
+  margin-left: -168px;
+  max-width: 155%;
+}
+.about:hover {
+  font-size: 20px;
+  text-align: justify;
+  margin-top: 164%;
+  color: white;
+  background-color: black;
+  margin-left: -168px;
+  max-width: 137%;
+}
+h2 {
+  font-size: 41px;
+}
+h2:hover {
+  font-size: 43px;
+}
+#p1 {
+  color: rgb(7, 98, 202);
+  font-size: 20px;
+}
+button {
+  background-color: rgb(41, 79, 182);
+  color: white;
+  border: 2px solid transparent;
+  text-decoration: none;
+  padding: 13px 30px;
+  border-radius: 30px;
+  transition: 0.4s;
+}
+button:hover {
+  background-color: transparent;
+  border: 2px solid rgb(41, 79, 182);
+  color: white;
+}
+.btn {
+  background-color: rgb(41, 79, 182);
+  color: white;
+  border: 2px solid transparent;
+  text-decoration: none;
+  padding: 13px 30px;
+  border-radius: 30px;
+  transition: 0.4s;
+}
+.btn:hover {
+  background-color: transparent;
+  border: 2px solid rgb(41, 79, 182);
+  color: white;
+}
+#serv {
+  font-weight: bolder;
+  font-size: 60px;
+  color: white;
+  margin-top: 70px;
+}
+.box {
+  max-height: 380px;
+  width: 1289px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: normal;
+}
+h5 {
+  color: white;
+  margin-top: 15px;
+  font-size: 25px;
+}
+.card {
+  margin-top: -51px;
+  margin-left: 26px;
+  background-color: rgb(39, 37, 37);
+  color: rgb(41, 79, 182);
+  border: solid transparent;
+  margin-bottom: 23px;
+  height: 400px;
+  width: 100%;
+}
+.card-text {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+#kz919 {
+  margin-left: 60px;
+  text-align: center;
+}
+.card i {
+  margin-left: 45%;
+  font-size: 50px;
+}
+.contact-me {
+  margin-top: 10%;
+  color: white;
+  background-color: rgb(39, 37, 37);
+  padding: 60px;
+}
+footer {
+  margin-top: 10%;
+  width: 100%;
+  height: 200px;
+  background: rgb(39, 37, 37);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+@media(max-width: 1000px){
+    footer{
+        margin-left: -32px !important;
+        display: block;
+        padding: 50px;
+        margin: 20px;
+        height: 579px !important;
+        width: 355px;
+    } 
+}
